@@ -6,7 +6,7 @@ The solution was designed to answer key business questions regarding sales perfo
 
 # Project Overview
 
-inde EMEA Sales Analytics Dashboard is an end-to-end Business Intelligence project developed from a real interview case study. 
+Linde EMEA Sales Analytics Dashboard is an end-to-end Business Intelligence project developed from a real interview case study. 
 Using over 224,000 transactional sales records, the project demonstrates how raw operational data can be transformed into executive-level insights through data modeling, DAX, and interactive Power BI dashboards. The analysis focuses on sales performance, customer behavior, product demand, channel effectiveness, and customer retention, concluding with data-driven business recommendations for executive stakeholders.
 
 # Business Problem
